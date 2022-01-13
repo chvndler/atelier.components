@@ -24,7 +24,6 @@ import { TextField } from '../components/TextField';
 import { Button } from '../components/Button';
 import { IconButton } from '../components/IconButton';
 import { Badge } from '../components/Badge';
-
 import { Layers } from '../custom/Layers';
 import { Properties } from '../custom/Properties';
 import { Color } from '../custom/Color';
